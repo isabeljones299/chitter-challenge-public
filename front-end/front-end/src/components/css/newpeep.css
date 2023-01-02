@@ -1,0 +1,29 @@
+#peepInput.peepinput {
+    margin: 5% !important;
+
+}
+
+.btn :hover {
+    color: black !important;
+    /* padding: 5% !important;  */
+}
+
+.btn {
+    padding: 5% !important;
+
+}
+
+.guestview {
+    text-align: center;
+}
+
+.guestview :hover {
+    background-color: black !important;
+    color: white !important;
+}
+
+textarea[type="text"],
+select {
+    width: 90%;
+    box-sizing: border-box;
+}

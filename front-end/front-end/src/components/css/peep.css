@@ -1,0 +1,37 @@
+#home {
+
+    border-style: hidden !important;
+}
+
+#peepcard {
+    margin: 5% !important;
+}
+
+.formelement {
+    margin: 5% !important;
+}
+
+input[type="email"],
+select {
+    width: 90%;
+    box-sizing: border-box;
+}
+
+input[type="password"],
+select {
+    width: 90%;
+    box-sizing: border-box;
+    background-color: rgb(192, 221, 252);
+}
+
+input[type="handle"],
+select {
+    width: 90%;
+    box-sizing: border-box;
+}
+
+input[type="name"],
+select {
+    width: 90%;
+    box-sizing: border-box;
+}
